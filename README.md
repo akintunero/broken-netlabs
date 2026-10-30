@@ -4,7 +4,7 @@ Four Cisco Packet Tracer networks, each deliberately broken. Your job is to find
 
 ## Start here
 
-1. Install **Cisco Packet Tracer 9.0.1**.
+1. Install **Cisco Packet Tracer**.
 2. Pick a lab folder from the table below. Start with the smallest if this is your first time.
 3. Read that folder's `README.md` first. It gives you the story, the network layout, the logins and what is expected of you.
 4. Open the `.pkt` file in Packet Tracer and work through `WORKBOOK.md`.
