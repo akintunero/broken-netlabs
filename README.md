@@ -1,4 +1,4 @@
-# Broken Netlabs
+﻿# Broken Netlabs
 
 Hands-on Cisco networking practice in two flavours: **troubleshooting broken production networks** and **building enterprise networks from scratch**. Everything runs in Cisco Packet Tracer or, for the greenfield curriculum, any simulator you prefer.
 
@@ -95,11 +95,11 @@ Located in [`ccna-in-90-greenfield/ccnain90/advanced-projects/`](./ccna-in-90-gr
 
 Every lab folder provides engineering specifications rather than step-by-step instructions:
 
-- `README.md` — scenario, business constraints, technical requirements, implementation checklist and verification commands.
-- `addressing-plan.md` — subnet and gateway assignments following a consistent master blueprint.
-- `topology-description.md` — device roles, link types and port-level mapping.
-- `failure-testing.md` — structured failure scenarios to inject and recover from.
-- `expected-outcomes.md` — success criteria and reflection prompts.
+- `README.md` - scenario, business constraints, technical requirements, implementation checklist and verification commands.
+- `addressing-plan.md` - subnet and gateway assignments following a consistent master blueprint.
+- `topology-description.md` - device roles, link types and port-level mapping.
+- `failure-testing.md` - structured failure scenarios to inject and recover from.
+- `expected-outcomes.md` - success criteria and reflection prompts.
 
 ### Simulator support
 
@@ -125,7 +125,7 @@ See the full curriculum guide in [`ccna-in-90-greenfield/ccnain90/README.md`](./
 
 ---
 
-If you find this repo helpful, give it a ⭐ — it helps others discover it.
+If you find this repo helpful, give it a ⭐ - it helps others discover it.
 
 Good luck.
 - Olumayowa 
